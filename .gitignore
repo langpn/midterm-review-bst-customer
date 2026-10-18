@@ -1,0 +1,19 @@
+# Maven / Gradle / IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Compiled Bytecode
+out/
+*.class
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Raw large screenshots
+screenshots_raw/
+*.zip

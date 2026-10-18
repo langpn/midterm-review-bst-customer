@@ -1,0 +1,8 @@
+# ID,Name,Gender,Age,Blood
+30,Tran Thi Bich,Nu,28,A
+35,Doan Van Em,Nam,24,O
+50,Nguyen Van An,Nam,35,O
+60,Dang Thi Giang,Nu,55,B
+65,Bui Quoc Hung,Nam,60,O
+80,Ngo Mai Huong,Nu,22,A
+85,Tran Quoc An,Nam,30,AB
